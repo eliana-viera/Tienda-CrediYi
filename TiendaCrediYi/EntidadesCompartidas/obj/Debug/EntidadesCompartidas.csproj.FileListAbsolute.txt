@@ -1,0 +1,4 @@
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

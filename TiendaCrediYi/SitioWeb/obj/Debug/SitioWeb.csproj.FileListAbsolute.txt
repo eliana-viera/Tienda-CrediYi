@@ -1,0 +1,11 @@
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\SitioWeb.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\SitioWeb.pdb
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\EntidadesCompartidas.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\Logica.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\Persistencia.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\EntidadesCompartidas.pdb
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\Logica.pdb
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\bin\Persistencia.pdb
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\obj\Debug\SitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\obj\Debug\SitioWeb.dll
+C:\Users\Ely\Desktop\Nueva carpeta (3)\TiendaCrediYi\SitioWeb\obj\Debug\SitioWeb.pdb
